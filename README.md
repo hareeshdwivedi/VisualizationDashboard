@@ -1,5 +1,5 @@
 # ⚡ VOLT
-VOLT is a web application made for the [QDS20 Hackathon](https://www.bcitsa.ca/hackathon/) hosted at BCIT. 
+VOLT is a web application made for the Client while working Freelancing 
 
 It's purpose is to display complex mining data in a simple, graphical form. This allows company executives to easily spot trends affecting the overall productivity of the company. 
 
